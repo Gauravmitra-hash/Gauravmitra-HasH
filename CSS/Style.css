@@ -117,7 +117,7 @@ html{
 
 .home{
     display: flex;
-    background: url("/IMAGES/dark.jfif") no-repeat center;
+    background: url("../IMAGES/slate.jfif") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
