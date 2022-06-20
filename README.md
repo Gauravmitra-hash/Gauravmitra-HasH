@@ -54,7 +54,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/gaurav-mitra/"><img src="https://img.shields.io/badge/sharan-swaroop-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gk2359@cse.jgec.ac.in"><img src="https://img.shields.io/badge/-sharan.swaroop17@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/gmitra_123"><img src="https://img.shields.io/badge/-sharan_17-1877F2?style=flat&logo=CodeChef&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gaurav-mitra/"><img src="https://img.shields.io/badge/Gaurav-Mitra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gk2359@cse.jgec.ac.in"><img src="https://img.shields.io/badge/-Gauravmitra6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/gmitra_123"><img src="https://img.shields.io/badge/-Gaurav-Mitra-1877F2?style=flat&logo=CodeChef&logoColor=white"/></a>
 </p>
