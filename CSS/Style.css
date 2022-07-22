@@ -380,15 +380,12 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .ML::before{
-    width: 30%;
-}
-.skills-content .right .DS-Algo::before{
-    width: 65%;
-}
-.skills-content .right .Python::before{
     width: 50%;
 }
-.skills-content .right .Django::before{
+.skills-content .right .DS-Algo::before{
+    width: 50%;
+}
+.skills-content .right .Python::before{
     width: 50%;
 }
 
