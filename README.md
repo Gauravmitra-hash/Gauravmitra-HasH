@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript** || **Competitive Programming** || **C++**
 
-- 📫 How to reach me **gk2359@cse.jgec.ac.in**
+- 📫 How to reach me **Gauravmitracareers@gmail.com**
 
 
 	
